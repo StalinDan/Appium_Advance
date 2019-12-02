@@ -1,0 +1,9 @@
+2019-12-02 15:31:12,410 desired_caps.py[line:30] INFO start app...
+2019-12-02 15:34:04,261 desired_caps.py[line:30] INFO start app...
+2019-12-02 15:34:34,294 common_fun.py[line:12] INFO ==========check_cancelBtn=========
+2019-12-02 15:34:34,576 common_fun.py[line:21] INFO =========check skipBtn=============
+2019-12-02 15:34:35,348 loginView.py[line:15] INFO ============login_action==============
+2019-12-02 15:34:35,348 loginView.py[line:16] INFO username is:自学网2018
+2019-12-02 15:34:36,463 loginView.py[line:19] INFO password is:zxw2018
+2019-12-02 15:34:37,590 loginView.py[line:22] INFO click loginBtn
+2019-12-02 15:34:38,131 loginView.py[line:24] INFO login finished!

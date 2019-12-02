@@ -1,0 +1,49 @@
+2019-12-02 15:55:48,538 test_login.py[line:8] INFO ======test_login_zxw2018=====
+2019-12-02 15:55:48,538 myunit.py[line:12] INFO ====tearDown====
+2019-12-02 16:06:12,350 myunit.py[line:8] INFO =====setUp====
+2019-12-02 16:06:12,367 desired_caps.py[line:30] INFO start app...
+2019-12-02 16:06:43,157 test_login.py[line:8] INFO ======test_login_zxw2018=====
+2019-12-02 16:06:43,157 common_fun.py[line:12] INFO ==========check_cancelBtn=========
+2019-12-02 16:06:43,373 common_fun.py[line:21] INFO =========check skipBtn=============
+2019-12-02 16:06:44,177 loginView.py[line:15] INFO ============login_action==============
+2019-12-02 16:06:44,177 loginView.py[line:16] INFO username is:自学网2018
+2019-12-02 16:06:45,644 loginView.py[line:19] INFO password is:zxw2018
+2019-12-02 16:06:46,697 loginView.py[line:22] INFO click loginBtn
+2019-12-02 16:06:47,240 loginView.py[line:24] INFO login finished!
+2019-12-02 16:06:47,240 myunit.py[line:12] INFO ====tearDown====
+2019-12-02 16:19:48,738 myunit.py[line:8] INFO =====setUp====
+2019-12-02 16:19:48,752 desired_caps.py[line:31] INFO start app...
+2019-12-02 16:20:48,299 myunit.py[line:8] INFO =====setUp====
+2019-12-02 16:20:48,305 desired_caps.py[line:31] INFO start app...
+2019-12-02 16:21:29,963 myunit.py[line:8] INFO =====setUp====
+2019-12-02 16:21:29,965 desired_caps.py[line:31] INFO start app...
+2019-12-02 16:26:18,521 myunit.py[line:8] INFO =====setUp====
+2019-12-02 16:26:18,534 desired_caps.py[line:31] INFO start app...
+2019-12-02 16:26:44,856 test_login.py[line:18] INFO ======test_login_error=====
+2019-12-02 16:26:44,856 common_fun.py[line:12] INFO ==========check_cancelBtn=========
+2019-12-02 16:26:45,629 common_fun.py[line:21] INFO =========check skipBtn=============
+2019-12-02 16:26:46,401 loginView.py[line:15] INFO ============login_action==============
+2019-12-02 16:26:46,401 loginView.py[line:16] INFO username is:6666
+2019-12-02 16:26:48,041 loginView.py[line:19] INFO password is:222
+2019-12-02 16:26:49,103 loginView.py[line:22] INFO click loginBtn
+2019-12-02 16:26:50,303 loginView.py[line:24] INFO login finished!
+2019-12-02 16:26:50,303 myunit.py[line:12] INFO ====tearDown====
+2019-12-02 16:26:55,408 myunit.py[line:8] INFO =====setUp====
+2019-12-02 16:26:55,410 desired_caps.py[line:31] INFO start app...
+2019-12-02 16:27:14,499 test_login.py[line:13] INFO ======test_login_zxw2017=====
+2019-12-02 16:27:14,499 common_fun.py[line:12] INFO ==========check_cancelBtn=========
+2019-12-02 16:27:15,486 common_fun.py[line:21] INFO =========check skipBtn=============
+2019-12-02 16:27:16,283 loginView.py[line:15] INFO ============login_action==============
+2019-12-02 16:27:16,283 loginView.py[line:16] INFO username is:自学网2017
+2019-12-02 16:27:17,761 loginView.py[line:19] INFO password is:zxw2017
+2019-12-02 16:27:18,825 loginView.py[line:22] INFO click loginBtn
+2019-12-02 16:27:21,105 loginView.py[line:24] INFO login finished!
+2019-12-02 16:27:21,105 myunit.py[line:12] INFO ====tearDown====
+2019-12-02 16:27:26,112 myunit.py[line:8] INFO =====setUp====
+2019-12-02 16:27:26,115 desired_caps.py[line:31] INFO start app...
+2019-12-02 16:27:45,241 test_login.py[line:8] INFO ======test_login_zxw2018=====
+2019-12-02 16:27:45,241 common_fun.py[line:12] INFO ==========check_cancelBtn=========
+2019-12-02 16:27:49,213 common_fun.py[line:21] INFO =========check skipBtn=============
+2019-12-02 16:27:50,023 loginView.py[line:15] INFO ============login_action==============
+2019-12-02 16:27:50,023 loginView.py[line:16] INFO username is:自学网2018
+2019-12-02 16:27:51,600 myunit.py[line:12] INFO ====tearDown====
